@@ -12,10 +12,10 @@ public class Main {
         System.out.println(last);
 
         char a = 'а';
-        char y = 'я';
-        char i = 'и';
+        char b = 'я';
+        char c = 'и';
 
-        if (last == a || last == y || last == i)
+        if (last == a || last == b || last == c)
             System.out.println("Приветик!");
 
         else {
